@@ -150,16 +150,7 @@ A dashboard was built to visualize:
 
 ---
 
-## 📁 Project Structure
 
-```
-├── Hospital_Data.csv
-├── predictions.csv
-├── notebook.ipynb
-├── README.md
-```
-
----
 
 ## ✅ Future Improvements
 
